@@ -1,5 +1,6 @@
-## Contents
-Link :https://github.com/sushiwushi/bug-bounty-dorks
+## Info
+Link : https://github.com/sushiwushi/bug-bounty-dorks
+Link : https://github.com/vavkamil/awesome-bugbounty-tools/blob/main/README.md
 - [Recon](#Recon)
     - [Subdomain Enumeration](#Subdomain-Enumeration)
     - [Port Scanning](#Port-Scanning)
