@@ -1,3 +1,3 @@
 
-   
-   apt-get install amass
+   for kali linux
+   run:  apt-get install amass
