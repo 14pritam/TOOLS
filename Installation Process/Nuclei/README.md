@@ -6,6 +6,7 @@ step2: export PATH=$PATH:/usr/local/go/bin
 
 step 3: go version
 
+Installation Process for Kali Linux
 
 ▶ Check : go version
 
