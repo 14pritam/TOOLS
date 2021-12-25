@@ -20,3 +20,6 @@ step 3: go version
 ▶ Usage : nuclei -l target.txt -t cves/
 
 ▶ Example : nuclei -u http://testphp.vulnweb.com/ -t technologies/nginx-version.yaml
+
+
+
