@@ -1,5 +1,5 @@
 ## Contents
-
+Link :https://github.com/sushiwushi/bug-bounty-dorks
 - [Recon](#Recon)
     - [Subdomain Enumeration](#Subdomain-Enumeration)
     - [Port Scanning](#Port-Scanning)
