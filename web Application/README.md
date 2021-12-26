@@ -15,4 +15,4 @@ ________________________________________________________________________________
 
 7.port:443
 
-8.http.title.Grafana (https://ctf-writeup.revers3c.com/challenges/web/CVE-2020-11110/index.html)
+8.http.title.Grafana  (https://ctf-writeup.revers3c.com/challenges/web/CVE-2020-11110/index.html)
