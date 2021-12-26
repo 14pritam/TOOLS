@@ -28,3 +28,11 @@
 ### 2.Amass
 
 ▶ Run :  apt-get install amass
+
+### 3.Sublist3r
+
+▶ Run :
+
+### 4.Subfinder
+
+▶ Run :
