@@ -29,10 +29,19 @@
 
 ▶ Run :  apt-get install amass
 
-### 3.Sublist3r
+### 3.getallurls 
 
-▶ Run :
+▶ Run : go install github.com/lc/gau/v2/cmd/gau@latest
 
-### 4.Subfinder
+### 4.httpx
 
-▶ Run :
+▶ Run : go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+
+### 5. waybackurls
+
+▶ Run : git clone https://github.com/tomnomnom/waybackurls.git
+
+
+
+
+
