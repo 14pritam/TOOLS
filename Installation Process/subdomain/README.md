@@ -41,6 +41,18 @@
 
 ▶ Run : git clone https://github.com/tomnomnom/waybackurls.git
 
+### 6. S3Scanner
+
+▶ Run :
+
+### 7.s3-buckets-finder
+
+▶ Run :
+
+
+
+
+
 
 
 
