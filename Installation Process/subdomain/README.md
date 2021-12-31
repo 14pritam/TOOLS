@@ -57,6 +57,17 @@
 
 ▶ Run : aquatone-discover -h
 
+### 9.FindDomain
+
+▶ Run : sudo apt-get install wget
+
+▶ Run : wget https://github.com/findomain/findomain/releases/latest/download/findomain-linux
+
+▶ Run : chmod +x findomain-linux
+
+▶ Run : ./findomain-linux
+
+▶ Run : ./findomain-linux -t google.com
 
 
 
