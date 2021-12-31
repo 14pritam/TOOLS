@@ -49,6 +49,14 @@
 
 ▶ Run :
 
+### 8.Aquatone
+
+▶ Run : sudo apt-get install ruby
+
+▶ Run : sudo gem install aquatone
+
+▶ Run : aquatone-discover -h
+
 
 
 
