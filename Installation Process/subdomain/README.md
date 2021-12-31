@@ -69,6 +69,10 @@
 
 ▶ Run : ./findomain-linux -t google.com
 
+### 10.subzy
+
+▶ Run : go get -u -v github.com/lukasikic/subzy
+
 
 
 
