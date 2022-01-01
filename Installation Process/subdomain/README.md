@@ -13,6 +13,12 @@
 
 ▶ Check : go version
 
+▶ Run :  sudo apt install nuclei
+
+▶ Run : nuclei -update-templates
+
+or
+
 ▶ Run : GO111MODULE=on go get -v github.com/projectdiscovery/nuclei/v2/cmd/nuclei
 
 ▶ Run : cp /root/go/bin/nuclei /usr/local/go/bin/
