@@ -1,5 +1,9 @@
 ### Go lang install
 
+go file cp
+usr/local/bin
+root/go/
+
 ▶ Run : rm -rf /usr/local/go && tar -C /usr/local -xzf go1.17.5.linux-amd64.tar.gz
 
 ▶ Run : export PATH=$PATH:/usr/local/go/bin
@@ -90,6 +94,11 @@ or
 ### 10.subzy
 
 ▶ Run : go get -u -v github.com/lukasikic/subzy
+
+### 11.subfinder 
+
+▶ Run : go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+
 
 
 
