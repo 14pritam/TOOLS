@@ -13,6 +13,17 @@ root/go/
 ▶ Run : go version
 
 
+###  docker
+
+▶ Run : sudo apt install -y docker.io
+
+▶ Run : sudo systemctl enable docker --now
+
+▶ Run : docker
+
+sudo apt install -y docker.io
+
+
 ### Installation Process for Kali Linux
 
 ### 1.NUCLEI
@@ -100,6 +111,16 @@ or
 ### 11.subfinder 
 
 ▶ Run : go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
+
+### 12.Rust scan
+
+download rustscan_2.0.1_amd64.deb from https://github.com/RustScan/RustScan/releases
+
+▶ Run : sudo dpkg -i rustscan_2.0.1_amd64.deb
+
+▶ Run : rustscan -a ipaddress
+
+
 
 
 
