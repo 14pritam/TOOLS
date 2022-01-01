@@ -47,6 +47,16 @@ or
 
 ▶ Run : git clone https://github.com/tomnomnom/waybackurls.git
 
+▶ Check : go version
+
+▶ Run : go install github.com/tomnomnom/waybackurls@latest
+
+▶ Run : cp /root/go/bin/waybackurls /usr/local/go/bin/
+
+▶ Run (Check) : waybackurls -h
+
+▶ Run (Check/Usage) : echo "http://testasp.vulnweb.com/" | waybackurls
+
 ### 6. S3Scanner
 
 ▶ Run :
