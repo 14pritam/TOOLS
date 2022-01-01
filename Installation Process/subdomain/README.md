@@ -24,6 +24,8 @@ or
 ▶ Run : cp /root/go/bin/nuclei /usr/local/go/bin/
 
 ▶ Run : nuclei -update-templates
+     
+▶ Run : nuclei -update
 
 ▶ Check : nuclei -h
 
