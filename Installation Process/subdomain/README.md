@@ -132,7 +132,7 @@ sudo apt install libur-perl
 
 sudo apt install golang-redoctober
 
-sudo apt install deb bro
+
 
 
 
