@@ -120,6 +120,10 @@ download rustscan_2.0.1_amd64.deb from https://github.com/RustScan/RustScan/rele
 
 ▶ Run : rustscan -a ipaddress
 
+### 13.httprobe
+
+▶ Run : sudo apt install httprobe
+
 
 
 
