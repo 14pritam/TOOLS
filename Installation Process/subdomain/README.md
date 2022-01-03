@@ -124,6 +124,16 @@ download rustscan_2.0.1_amd64.deb from https://github.com/RustScan/RustScan/rele
 
 ▶ Run : sudo apt install httprobe
 
+### 14.imp
+
+sudo apt install udo
+
+sudo apt install libur-perl  
+
+sudo apt install golang-redoctober
+
+sudo apt install deb bro
+
 
 
 
