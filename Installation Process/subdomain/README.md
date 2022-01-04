@@ -132,6 +132,13 @@ sudo apt install libur-perl
 
 sudo apt install golang-redoctober
 
+### 15.aws
+
+sudo apt-get install awscli 
+
+aws configure
+
+
 
 
 
