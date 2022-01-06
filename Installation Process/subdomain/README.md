@@ -138,6 +138,11 @@ sudo apt-get install awscli
 
 aws configure
 
+### 16.Naabu
+
+go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
+
+
 
 
 
