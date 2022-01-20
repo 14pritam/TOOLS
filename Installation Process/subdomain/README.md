@@ -4,7 +4,7 @@ go file cp
 
 usr/local/bin
 
-root/go/
+root/go/bin
 
 ▶ Run : rm -rf /usr/local/go && tar -C /usr/local -xzf go1.17.5.linux-amd64.tar.gz
 
@@ -141,6 +141,17 @@ aws configure
 ### 16.Naabu
 
 go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
+
+### 17.wprecon
+
+git clone https://github.com/blackcrw/wprecon.git
+
+copy main and paste it in 
+
+usr/local/bin
+
+root/go/bin
+
 
 
 
