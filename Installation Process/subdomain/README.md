@@ -152,6 +152,7 @@ usr/local/bin
 
 root/go/bin
 
+▶ Run : main wprecon -u "https://xxxxxxxx.com" 
 
 
 
