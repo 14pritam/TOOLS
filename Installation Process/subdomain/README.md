@@ -126,25 +126,25 @@ download rustscan_2.0.1_amd64.deb from https://github.com/RustScan/RustScan/rele
 
 ### 14.imp
 
-sudo apt install udo
+▶ Run : sudo apt install udo
 
-sudo apt install libur-perl  
+▶ Run : sudo apt install libur-perl  
 
-sudo apt install golang-redoctober
+▶ Run : sudo apt install golang-redoctober
 
 ### 15.aws
 
-sudo apt-get install awscli 
+▶ Run : sudo apt-get install awscli 
 
-aws configure
+▶ Run : aws configure
 
 ### 16.Naabu
 
-go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
+▶ Run : go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
 
 ### 17.wprecon
 
-git clone https://github.com/blackcrw/wprecon.git
+▶ Run : git clone https://github.com/blackcrw/wprecon.git
 
 copy main and paste it in 
 
