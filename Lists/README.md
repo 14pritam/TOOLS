@@ -2,6 +2,8 @@
 Link : https://github.com/sushiwushi/bug-bounty-dorks
 
 Link : https://github.com/vavkamil/awesome-bugbounty-tools/blob/main/README.md
+
+Web crawler : https://github.com/BruceDone/awesome-crawler
 - [Recon](#Recon)
     - [Subdomain Enumeration](#Subdomain-Enumeration)
     - [Port Scanning](#Port-Scanning)
